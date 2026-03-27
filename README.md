@@ -20,7 +20,7 @@ ScholarSpend is a financial assistant designed to help university students navig
 ![ScholarSpend Dashboard](Picture5.png)
 * **Integrated Settings:** Comprehensive management of Linked Accounts, Budget Categories, and Privacy/Security.
 
-* 
+![ScholarSpend Dashboard](Picture9.png) ![ScholarSpend Dashboard](Picture10.png) ![ScholarSpend Dashboard](Picture11.png) ![ScholarSpend Dashboard](Picture12.png)
 
 ## Technical Implementation
 This project demonstrates a **Component-Driven Development** approach using modern frontend architecture.
