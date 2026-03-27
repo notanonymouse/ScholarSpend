@@ -3,14 +3,24 @@
 
 ScholarSpend is a financial assistant designed to help university students navigate the transition to financial independence. By combining clean data visualization with gamified "Savings Quests," ScholarSpend turns the chore of budgeting into an engaging academic journey.
 
-![ScholarSpend Dashboard](Picture1.png) ![ScholarSpend Dashboard](Picture2.png)
+![ScholarSpend Dashboard](Picture1.png) ![ScholarSpend Dashboard](Picture2.png) ![ScholarSpend Dashboard](Picture7.png) ![ScholarSpend Dashboard](Picture8.png)
 
 ## Key Features
 * **Intelligent Dashboard:** Real-time visibility into "Available to Spend" vs. "Safe-to-Save" balances.
+ 
+![ScholarSpend Dashboard](Picture4.png) 
 * **AI ScholarTips:** Dynamic spending insights, such as analyzing savings from digital textbooks.
+
+![ScholarSpend Dashboard](Picture3.png)
 * **Gamified XP System:** Users earn "Budget Master" levels by hitting weekly savings milestones.
+
+![ScholarSpend Dashboard](Picture6.png)
 * **Study Group Goals:** Social saving features allowing groups to track collective progress for shared goals like Spring Break.
+
+![ScholarSpend Dashboard](Picture5.png)
 * **Integrated Settings:** Comprehensive management of Linked Accounts, Budget Categories, and Privacy/Security.
+
+* 
 
 ## Technical Implementation
 This project demonstrates a **Component-Driven Development** approach using modern frontend architecture.
